@@ -150,14 +150,14 @@ font-weight: 400;
     text-transform: uppercase;
 }
         .class1 {
-            background: url('../images/HTML.png') center center no-repeat;
+            background: url('../images/html.png') center center no-repeat;
             height: 100px;
                 width: 150px;
             color: white;
             background-size: contain;
         }
         .class2 {
-            background: url('../images/CSS.png') center center no-repeat;
+            background: url('../images/css.png') center center no-repeat;
             height: 100px;
                 width: 150px;
             color: white;
